@@ -1,0 +1,12 @@
+# PostgreSQL
+#   Ensure the PostgreSQL gem is defined in your Gemfile
+#   gem 'pg'
+development:
+  adapter: postgresql
+  encoding: utf8
+  database: klichenn_development
+  username: ubuntu
+  host: klichenn-abhinavmathur1.c9.io
+  pool: 5
+  port: 5432
+  password: 0522lucknow
